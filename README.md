@@ -61,12 +61,6 @@ Final-year CS student at **Lovely Professional University** who works on both si
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SunilReddy32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)>
-
----
-
 <p align="center">
   💼 <b>Actively looking for QA Automation / SDET roles</b> — <a href="mailto:sunilchinnabianagari@gmail.com">reach out!</a>
 </p>
