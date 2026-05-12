@@ -30,16 +30,11 @@ Final-year CS student at **Lovely Professional University** who works on both si
 [![Skills](https://skillicons.dev/icons?i=selenium,java,maven,postman,git,github)](https://skillicons.dev)
 
 **Development**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-grey?style=flat-square&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven)](https://skillicons.dev)
+
 
 **Tools & CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=githubactions,git,jenkins,idea)](https://skillicons.dev)
 
 ---
 
