@@ -22,7 +22,7 @@ Final-year CS student at **Lovely Professional University** who works on both si
 - 📍 Bengaluru, Karnataka &nbsp;|&nbsp; Open to QA Automation & SDET roles
 
 ---
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJ4dGw4YmNxeHZqY2F3OWt0OWpwemNpNTh3anBjZHF2bGI0dzZyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 ### 🛠️ Tech Stack
 
