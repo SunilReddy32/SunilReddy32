@@ -27,14 +27,7 @@ Final-year CS student at **Lovely Professional University** who works on both si
 ### 🛠️ Tech Stack
 
 **Testing & QA**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![REST Assured](https://img.shields.io/badge/REST--Assured-007396?style=flat-square&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Allure](https://img.shields.io/badge/Allure_Reports-orange?style=flat-square&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=selenium,java,maven,postman,git,github)](https://skillicons.dev)
 
 **Development**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
