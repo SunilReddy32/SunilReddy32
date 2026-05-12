@@ -34,7 +34,7 @@ Final-year CS student at **Lovely Professional University** who works on both si
 
 
 **Tools & CI/CD**  
-[![Skills](https://skillicons.dev/icons?i=githubactions,git,jenkins,idea)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=githubactions,git,jenkins,idea,docker,kubernetes)](https://skillicons.dev)
 
 ---
 
