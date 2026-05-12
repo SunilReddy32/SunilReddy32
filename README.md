@@ -42,8 +42,8 @@ Final-year CS student at **Lovely Professional University** who works on both si
 
 | Project | Type | Stack | Highlights |
 |---|---|---|---|
-| [SmartBank](https://github.com/SunilReddy32/TODOLIST) | Full-Stack Dev | Java · Spring Boot · REST API · MySQL | CRUD REST API with Spring Boot |
-| [FoodFrenzy](https://github.com/SunilReddy32/SmartBank.git) | Full-Stack Dev | Java · Spring Boot · React · REST API · PostgreSQL | 
+| [SmartBank](https://github.com/SunilReddy32/TODOLIST) | Full-Stack Dev | Java · Spring Boot · REST API · MySQL | End to End Banking Funtionalities |
+| [FoodFrenzy](https://github.com/SunilReddy32/SmartBank.git) | Full-Stack Dev | Java · Spring Boot · React · REST API · PostgreSQL | Online Food Ordering Application |
 | [Banking Test Suite](https://github.com/SunilReddy32) | QA Automation | Selenium · Playwright · Cucumber · REST Assured · GitHub Actions | 70+ test cases, parallel execution 18→9 min, JWT auth testing |
 | [E-Commerce Test Suite](https://github.com/SunilReddy32) | QA Automation | Selenium · REST Assured · MySQL · TestNG | 50+ cases, RBAC validation, DB consistency checks |
 | [UI Automation Framework](https://github.com/SunilReddy32) | QA Automation | Selenium · POM · Allure · Log4j | 30+ cases, cross-browser, Allure dashboards |
