@@ -26,12 +26,11 @@ Final-year CS student at **Lovely Professional University** who works on both si
 
 ### 🛠️ Tech Stack
 
-**Testing & QA**  
-[![Skills](https://skillicons.dev/icons?i=selenium,java,maven,postman,git,github)](https://skillicons.dev)
-
 **Development**  
 [![Skills](https://skillicons.dev/icons?i=java,spring,mysql,maven)](https://skillicons.dev)
 
+**Testing & QA**  
+[![Skills](https://skillicons.dev/icons?i=selenium,java,maven,postman,git,github)](https://skillicons.dev)
 
 **Tools & CI/CD**  
 [![Skills](https://skillicons.dev/icons?i=githubactions,git,jenkins,idea,docker,kubernetes)](https://skillicons.dev)
