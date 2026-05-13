@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Talk%20is%20cheap%20show%20me%20the%20code.%22" alt="Typing introduction" />
 </p>
 
-<p align="center">
+  <p align="center">
+  <a href="https://linkedin.com/in/csunilreddy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:sunilchinnabianagari@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://komarev.com/ghpvc/?username=SunilReddy32">
     <img src="https://komarev.com/ghpvc/?username=SunilReddy32&label=Profile%20views&color=00FFFF&style=flat-square" alt="SunilReddy32's profile views" />
   </a>
